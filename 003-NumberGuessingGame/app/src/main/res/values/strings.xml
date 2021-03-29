@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+
+    <string name="app_head">Sayı Tahmin Oyunu</string>
+    <string name="hint">Tahmininiz</string>
+
+    <!-- Button Names -->
+    <string name="guess_button_name">Tahmin Et</string>
+
+    <!-- Message Texts -->
+    <string name="opening_message">Lütfen Bir Sayı Giriniz</string>
+    <string name="score_message">Skorunuz: %d</string>
+    <string name="win_message">Tebrikler, bildiniz! Skorunuz: %d</string>
+    <string name="fail_message">Kaybettiniz!</string>
+    <string name="input_error_message">Boş Geçilemez</string>
+    <string name="biggernum_message">Daha Büyük Bir Sayı Dene</string>
+    <string name="smallernum_message">Daha Küçük Bir Sayı Dene</string>
+
+</resources>
