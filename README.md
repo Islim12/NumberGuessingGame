@@ -1,4 +1,5 @@
 # NumberGuessingGame
+
 🔢003-NumberGuessingGame: It is a number guessing game: every time when starting this app, there will be a random number without the user’s knowledge in the background (private) and 100 trials. In this project, it is aimed to control the inputs: If the user
 
 1️⃣ Guesses the wrong number, the test number (trial) decreases. Also, if the user guesses a smaller or a bigger number, a text will appear depends on it.
