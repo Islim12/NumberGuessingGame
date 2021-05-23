@@ -10,3 +10,6 @@
 4️⃣	Does not guess the correct number and the test number (trial) is 0, input will be disabled and a “failed” message will appear.
 
 🔮In addition, input keyboard will be resized by android:windowSoftInputMode="adjustResize" code line in AndroidManifest.
+
+🔨You can download and build this project on Android Studio. The project's SDK is API 22: Android 5.1. 
+Therefore, you must run the app on the virtual devices that have minimum API level 22.
